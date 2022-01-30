@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NavTech.Configuration.Common\NavTech.Configuration.Common.csproj" />
+    <ProjectReference Include="..\NavTech.Configuration.DataAccess\NavTech.Configuration.DataAccess.csproj" />
+    <ProjectReference Include="..\NavTech.Configuration.Models\NavTech.Configuration.Models.csproj" />
+  </ItemGroup>
+
+</Project>
