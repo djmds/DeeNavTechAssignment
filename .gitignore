@@ -3,3 +3,18 @@
 ################################################################################
 
 /NavTech.Configuration/NavTech.Configuration.API/Properties
+/NavTech.Configuration/NavTech.Configuration.API/obj
+/NavTech.Configuration/NavTech.Configuration.API/bin
+/NavTech.Configuration/.vs/NavTech.Configuration
+/NavTech.Configuration/NavTech.Configuration.Common/obj
+/NavTech.Configuration/NavTech.Configuration.Common/bin
+/.vs
+/NavTech.Configuration/NavTech.Configuration.Common
+/NavTech.Configuration/NavTech.Configuration.DataAccess/bin
+/NavTech.Configuration/NavTech.Configuration.DataAccess/obj
+/NavTech.Configuration/NavTech.Configuration.Models/obj
+/NavTech.Configuration/NavTech.Configuration.Models/bin
+/NavTech.Configuration/NavTech.Configuration.Repository/bin
+/NavTech.Configuration/NavTech.Configuration.Repository/obj
+/NavTech.Configuration/NavTech.Configuration.Service/bin
+/NavTech.Configuration/NavTech.Configuration.Service/obj
